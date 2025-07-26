@@ -14,5 +14,4 @@ Python basics, loops, functions, lists, dictionaries
 ## Run the Code
 ```bash
 python student_manager.py
-# student--management
-```bash
+
